@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>artificial intelligence on My New Hugo Site</title>
+    <link>http://example.org/tags/artificial-intelligence/</link>
+    <description>Recent content in artificial intelligence on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/artificial-intelligence/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A brave new world: blockchain and the emergence of Web 3.0 | Blog | BlockRocket.tech</title>
+      <link>http://example.org/blog/a-brave-new-world-blockchain-and-the-emergence-of-web-3/</link>
+      <pubDate>Tue, 07 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/blog/a-brave-new-world-blockchain-and-the-emergence-of-web-3/</guid>
+      <description>A brave new world: blockchain and the emergence of Web 3.0 Blockchain — and its associated technologies — is set to play a key role in the evolution of Web 3.0, and the democratic decentralisation of data.
+Web 1.0 — The beginning Back in the 90s when the internet became a living breathing beast, we saw the birth of a new paradigm, a revolution in the form of information and communications.</description>
+    </item>
+    
+    <item>
+      <title>BlockRocket visits Parliament | Blog | BlockRocket.tech</title>
+      <link>http://example.org/blog/blockrocket-visits-parliament-blockchain/</link>
+      <pubDate>Tue, 07 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/blog/blockrocket-visits-parliament-blockchain/</guid>
+      <description>BlockRocket visits Parliament #blockchain All Party-Parliamentary Group on Blockchain Summer Reception
+After attending and participating in several APPG evidence meetings with a shared goal at governmental level to advance blockchain technology adoption we got an invite to Summer Reception by the chair of group Damien Moore MP.
+So we boarded the train south as we love good chat with likeminded individuals plus there was a promise of the odd beer too 🍻</description>
+    </item>
+    
+    <item>
+      <title>Scaling Ethereum — what scaling solutions can you use today? | Blog | BlockRocket.tech</title>
+      <link>http://example.org/blog/scaling-ethereum-what-scaling-solutions-can-you-use-today/</link>
+      <pubDate>Tue, 07 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/blog/scaling-ethereum-what-scaling-solutions-can-you-use-today/</guid>
+      <description>Scaling Ethereum — what scaling solutions can you use today? How projects can leverage the latest scaling technologies to build highly scalable Ethereum applications
+credits to district0x — https://education.district0x.io/general-topics/
+At BlockRocket we are often asked by clients, how can they can leverage public blockchains like Ethereum without suffering from known blockers such as scalability and transactions costs.
+Today, the Ethereum ecosystem is maturing and scaling solutions, also known as layer 2 solutions (L2), are becoming production ready.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+
+{{ define "main" }}
+<section class="section">
+    <div class="container" style="padding-top: 20px">
+        <div class="row">
+            <div class="col-md-12 align-items-center ml-auto d-flex">
+                <div class="col-md-5">
+                    <h1>{{ .Params.articletitle }}</h1>
+                    <h3>{{ .Description }}</h3>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="section" style="padding-bottom: 50px">
+    <div class="container">
+        {{ .Content }}
+    </div>
+</section>
+{{ end }}
