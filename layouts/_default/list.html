@@ -1,11 +1,11 @@
 {{ define "main" }}
 
-<section class="section section-blog">
+<section class="section section-blog" style="padding-bottom: 0; padding-top: 25px;">
     <div class="container">
-        <div class="row" style="height: 100px">
+        <div class="row">
             <div class="col-md-12 align-items-center ml-auto d-flex">
                 <div>
-                    <h1 style="padding-top: 30px">{{ .Params.articletitle }}</h1>
+                    <h1>{{ .Params.articletitle }}</h1>
                 </div>
             </div>
         </div>
@@ -19,7 +19,6 @@
         {{ if eq (mod $index 3) 0 }}
         <div class="row">
             {{ end }}
-
 
             <div class="col-sm blog-grid">
                 <a href="{{ .RelPermalink }}">

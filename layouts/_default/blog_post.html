@@ -19,7 +19,7 @@
                     <!-- Author Box -->
                     <div class="row post-top-meta">
                         <div class="col-xs-12 col-md-3 col-lg-2 text-center text-md-left mb-4 mb-md-0 md-nopad-right">
-                            <img class="author-thumb" src="{{ .Params.author_thumbnail | urlize | relURL}}" alt="{{ .Params.author_name }}">
+                            <img class="author-thumb" src="{{ .Params.author_thumbnail}}" alt="{{ .Params.author_name }}">
                         </div>
                         <div class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left md-nopad-left">
                             <a target="_blank" class="link-dark">{{ .Params.author_name }}</a><br>
@@ -53,12 +53,12 @@
 
                 <!-- Next and PrevPage inside current section -->
                 <div class="row PageNavigation d-flex justify-content-between" style="padding-bottom: 30px">
-                    <div class="col-md-6">
+                    <div class="col col-md-6">
                         {{with .NextInSection}}
                         <a class="d-block" href="{{.URL}}"> &laquo; {{.Params.articletitle}}</a>
                         {{end}}
                     </div>
-                    <div class="col-md-6">
+                    <div class="col col-md-6">
                         {{with .PrevInSection}}
                         <a class="d-block text-lg-right" href="{{.URL}}">{{.Params.articletitle}} &raquo;</a>
                         {{end}}

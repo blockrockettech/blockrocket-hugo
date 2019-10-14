@@ -7,13 +7,11 @@ date: 2019-05-07T00:00:00
 tags: ["artificial intelligence"]
 image: "https://miro.medium.com/proxy/1*yH0yrqHy8vyT_Y5Jo_uhTw.jpeg"
 author_name: "James Morgan"
-author_thumbnail: "/images/James.jpg"
+author_thumbnail: "https://miro.medium.com/fit/c/96/96/1*pU0bCzBaLEnySQq0APCjWg.jpeg"
 author_description: "Co-Founder of BlockRocket"
 layout: blog_post
 draft: false
 ---
-# A brave new world: blockchain and the emergence of Web 3.0
-
 Blockchain — and its associated technologies — is set to play a key role in the evolution of Web 3.0, and the democratic decentralisation of data.
 
 ![](https://cdn-images-1.medium.com/max/NaN/1*yH0yrqHy8vyT_Y5Jo_uhTw.jpeg)

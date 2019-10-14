@@ -1,19 +1,17 @@
 ---
-title: "Scaling Ethereum — what scaling solutions can you use today? | Blog | BlockRocket.tech"
-articletitle: "Scaling Ethereum — what scaling solutions can you use today?"
+title: "Scaling Ethereum | Blog | BlockRocket.tech"
+articletitle: "Scaling Ethereum"
 description: "Scaling Ethereum — what scaling solutions can you use today?"
 metadescription: "Scaling Ethereum — what scaling solutions can you use today?"
 date: 2019-05-07T00:00:00
 tags: ["artificial intelligence"]
 image: "https://miro.medium.com/max/3334/0*NQhtdlGciXgQEvas.png"
 author_name: "James Morgan"
-author_thumbnail: "/images/James.jpg"
+author_thumbnail: "https://miro.medium.com/fit/c/96/96/1*pU0bCzBaLEnySQq0APCjWg.jpeg"
 author_description: "Co-Founder of BlockRocket"
 layout: blog_post
 draft: false
 ---
-# Scaling Ethereum — what scaling solutions can you use today?
-
 How projects can leverage the latest scaling technologies to build highly scalable Ethereum applications
 
 ![credits to district0x — [https://education.district0x.io/general-topics/](https://education.district0x.io/general-topics/)](https://cdn-images-1.medium.com/max/3334/0*NQhtdlGciXgQEvas.png)*credits to district0x — [https://education.district0x.io/general-topics/](https://education.district0x.io/general-topics/)*

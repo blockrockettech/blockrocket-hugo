@@ -7,13 +7,11 @@ date: 2019-05-07T00:00:00
 tags: ["artificial intelligence"]
 image: "https://miro.medium.com/max/4096/1*1oACMfGRX7A9zE_GyFipVw.jpeg"
 author_name: "Andy Gray"
-author_thumbnail: "/images/AndyNoBorder.png"
+author_thumbnail: "https://miro.medium.com/fit/c/96/96/0*S_ffs-qdOMzN8RIa."
 author_description: "Co-Founder of BlockRocket"
 layout: blog_post
 draft: false
 ---
-# BlockRocket visits Parliament #blockchain
-
 All Party-Parliamentary Group on Blockchain Summer Reception
 
 After attending and participating in several APPG evidence meetings with a shared goal at governmental level to advance blockchain technology adoption we got an invite to Summer Reception by the chair of group Damien Moore MP.
