@@ -45,5 +45,38 @@ At BlockRocket we are often asked by clients, how can they can leverage public b
 Today, the Ethereum ecosystem is maturing and scaling solutions, also known as layer 2 solutions (L2), are becoming production ready. We have been building with a variety of tools and frameworks that now allows us to advise our clients on the best approach right now on what can be realistically done and where we see this technology going.</description>
     </item>
     
+    <item>
+      <title></title>
+      <link>http://example.org/blog/building-a-functioning-arts-dao/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/blog/building-a-functioning-arts-dao/</guid>
+      <description>Building a functioning arts DAO Our take on the components required to build a profit seeking DAO that curates and sells NFTs
+After our recent launch of the experimental DAO, Osaka DAO, it soon became apparent that even with all the current DAO hype, there still isn’t the right sort of DAO aimed at creative curation and revenue generation that aspires to be profit seeking. Although it is in the name most current implementations are not very autonomous!</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/blog/daosaka-the-facts-and-figures/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/blog/daosaka-the-facts-and-figures/</guid>
+      <description>DAOSaka: The facts and figures From funding the DAO, to commissioning the art, selling the digital assets, and returning a shareholder profit! 😍
+After Berlin Blockchain week we had seen the power of community through DAOs (Decentralised Autonomous Organisations) with the MetaCartel demo day and DAO. Read more about their efforts to promote dApps here.
+The MetaCartel! (can you spot us in the picture 👀)
+After we got back to Manchester and arranged a call with Peter ‘pet3rpan’ to discuss an experiment.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/blog/the-erc721-secondary-sale-commission-conundrum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/blog/the-erc721-secondary-sale-commission-conundrum/</guid>
+      <description>The ERC721 Secondary Sale Commission Conundrum 😐 TL;DR it’s complicated!
+At BlockRocket we build dApps and a fair few of them use non-fungible tokens (NFTs) that follow the ERC721 standard. Once the digital assets are live on the blockchain they can commonly be re-sold on secondary markets (primary being the original sale and minting of the token).
+The majority of NFTs currently being traded on marketplaces use transfer functions that do not have any *value *exchange bar the token.</description>
+    </item>
+    
   </channel>
 </rss>

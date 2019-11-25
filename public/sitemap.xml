@@ -38,6 +38,21 @@
   </url>
   
   <url>
+    <loc>http://example.org/blog/building-a-functioning-arts-dao/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/daosaka-the-facts-and-figures/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/the-erc721-secondary-sale-commission-conundrum/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://example.org/categories/</loc>
   </url>
   
