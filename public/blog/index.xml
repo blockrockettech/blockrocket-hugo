@@ -6,10 +6,20 @@
     <description>Recent content in BlockRocket Blog | Blockchain at the coalface | BlockRocket.tech on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 07 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 Nov 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://example.org/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Building a functioning arts DAO</title>
+      <link>http://example.org/blog/building-a-functioning-arts-dao/</link>
+      <pubDate>Sat, 09 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/blog/building-a-functioning-arts-dao/</guid>
+      <description>Our take on the components required to build a profit seeking DAO that curates and sells NFTs
+After our recent launch of the experimental DAO, Osaka DAO, it soon became apparent that even with all the current DAO hype, there still isn’t the right sort of DAO aimed at creative curation and revenue generation that aspires to be profit seeking. Although it is in the name most current implementations are not very autonomous!</description>
+    </item>
     
     <item>
       <title>DAOSaka: The facts and figures</title>
@@ -66,16 +76,6 @@ A CryptoKaiju came along for the ride!</description>
 credits to district0x — https://education.district0x.io/general-topics/
 At BlockRocket we are often asked by clients, how can they can leverage public blockchains like Ethereum without suffering from known blockers such as scalability and transactions costs.
 Today, the Ethereum ecosystem is maturing and scaling solutions, also known as layer 2 solutions (L2), are becoming production ready. We have been building with a variety of tools and frameworks that now allows us to advise our clients on the best approach right now on what can be realistically done and where we see this technology going.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://example.org/blog/building-a-functioning-arts-dao/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/blog/building-a-functioning-arts-dao/</guid>
-      <description>Building a functioning arts DAO Our take on the components required to build a profit seeking DAO that curates and sells NFTs
-After our recent launch of the experimental DAO, Osaka DAO, it soon became apparent that even with all the current DAO hype, there still isn’t the right sort of DAO aimed at creative curation and revenue generation that aspires to be profit seeking. Although it is in the name most current implementations are not very autonomous!</description>
     </item>
     
   </channel>
