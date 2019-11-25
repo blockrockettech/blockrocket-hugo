@@ -1,6 +1,17 @@
-
-# DAOSaka: The facts and figures
-
+---
+title: "DAOSaka: The facts and figures"
+articletitle: "DAOSaka: The facts and figures"
+description: "From funding the DAO, to commissioning the art, selling the digital assets, and returning a shareholder profit! 😍"
+metadescription: "From funding the DAO, to commissioning the art, selling the digital assets, and returning a shareholder profit!"
+date: 2019-11-07T00:00:00
+tags: ["dao ethereum art smart contract"]
+image: "https://miro.medium.com/max/1350/1*4zOi71_wkGifBF05mekXFQ.png"
+author_name: "Andy Gray"
+author_thumbnail: "https://miro.medium.com/fit/c/128/128/0*S_ffs-qdOMzN8RIa."
+author_description: "Co-Founder of BlockRocket"
+layout: blog_post
+draft: false
+---
 From funding the DAO, to commissioning the art, selling the digital assets, and returning a shareholder profit! 😍
 
 After Berlin Blockchain week we had seen the power of community through DAOs (Decentralised Autonomous Organisations) with the MetaCartel demo day and DAO. Read more about their efforts to promote dApps [here](https://medium.com/metacartel).

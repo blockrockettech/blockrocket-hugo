@@ -4,21 +4,31 @@
   
   <url>
     <loc>http://example.org/blog/</loc>
-    <lastmod>2019-11-01T00:00:00+00:00</lastmod>
+    <lastmod>2019-11-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://example.org/</loc>
-    <lastmod>2019-11-01T00:00:00+00:00</lastmod>
+    <lastmod>2019-11-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/erc721/</loc>
-    <lastmod>2019-11-01T00:00:00+00:00</lastmod>
+    <loc>http://example.org/tags/dao-ethereum-art-smart-contract/</loc>
+    <lastmod>2019-11-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/daosaka-the-facts-and-figures/</loc>
+    <lastmod>2019-11-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://example.org/tags/</loc>
+    <lastmod>2019-11-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/erc721/</loc>
     <lastmod>2019-11-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -49,11 +59,6 @@
   
   <url>
     <loc>http://example.org/blog/building-a-functioning-arts-dao/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/blog/daosaka-the-facts-and-figures/</loc>
     <priority>0</priority>
   </url>
   
