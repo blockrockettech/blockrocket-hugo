@@ -1,6 +1,17 @@
-
-# The ERC721 Secondary Sale Commission Conundrum 😐
-
+---
+title: "The ERC721 Secondary Sale Commission Conundrum 😐"
+articletitle: "The ERC721 Secondary Sale Commission Conundrum 😐"
+description: "TL;DR it’s complicated!"
+metadescription: "TL;DR it’s complicated!"
+date: 2019-11-01T00:00:00
+tags: ["erc721"]
+image: "https://miro.medium.com/max/640/1*-xUM4snahDB_qofMAe-sag.jpeg"
+author_name: "Andy Gray"
+author_thumbnail: "https://miro.medium.com/fit/c/128/128/0*S_ffs-qdOMzN8RIa."
+author_description: "Co-Founder of BlockRocket"
+layout: blog_post
+draft: false
+---
 TL;DR it’s complicated!
 
 At BlockRocket we build dApps and a fair few of them use non-fungible tokens (NFTs) that follow the ERC721 standard. Once the digital assets are live on the blockchain they can commonly be re-sold on secondary markets (primary being the original sale and minting of the token).

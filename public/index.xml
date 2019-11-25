@@ -6,10 +6,21 @@
     <description>Recent content in BlockRocket Engineering | Helping you understanding Blockchain | BlockRocket.tech on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The ERC721 Secondary Sale Commission Conundrum 😐</title>
+      <link>http://example.org/blog/the-erc721-secondary-sale-commission-conundrum/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/blog/the-erc721-secondary-sale-commission-conundrum/</guid>
+      <description>TL;DR it’s complicated!
+At BlockRocket we build dApps and a fair few of them use non-fungible tokens (NFTs) that follow the ERC721 standard. Once the digital assets are live on the blockchain they can commonly be re-sold on secondary markets (primary being the original sale and minting of the token).
+The majority of NFTs currently being traded on marketplaces use transfer functions that do not have any *value *exchange bar the token.</description>
+    </item>
     
     <item>
       <title>A brave new world: blockchain and the emergence of Web 3.0 | Blog | BlockRocket.tech</title>
@@ -65,17 +76,6 @@ After our recent launch of the experimental DAO, Osaka DAO, it soon became appar
 After Berlin Blockchain week we had seen the power of community through DAOs (Decentralised Autonomous Organisations) with the MetaCartel demo day and DAO. Read more about their efforts to promote dApps here.
 The MetaCartel! (can you spot us in the picture 👀)
 After we got back to Manchester and arranged a call with Peter ‘pet3rpan’ to discuss an experiment.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://example.org/blog/the-erc721-secondary-sale-commission-conundrum/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/blog/the-erc721-secondary-sale-commission-conundrum/</guid>
-      <description>The ERC721 Secondary Sale Commission Conundrum 😐 TL;DR it’s complicated!
-At BlockRocket we build dApps and a fair few of them use non-fungible tokens (NFTs) that follow the ERC721 standard. Once the digital assets are live on the blockchain they can commonly be re-sold on secondary markets (primary being the original sale and minting of the token).
-The majority of NFTs currently being traded on marketplaces use transfer functions that do not have any *value *exchange bar the token.</description>
     </item>
     
   </channel>
