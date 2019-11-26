@@ -30,9 +30,9 @@
                 {{ if .Params.author_name }}
                 <p class="text-bottom">
                     <small>
-                        <time><i class="far fa-star"></i>  {{ dateFormat "Jan 2, 2006" .Date }}</time>
-                        <span><i class="fas fa-user"></i>  {{ .Params.author_name }}</span>
-                        <span><i class="far fa-clock"></i>{{ div .FuzzyWordCount 220 }} min read</span>
+                        <time><i class="far fa-star"></i> {{ dateFormat "Jan 2, 2006" .Date }}</time>
+                        <span><i class="fas fa-user"></i> {{ .Params.author_name }}</span>
+                        <span><i class="far fa-clock"></i> {{ div .FuzzyWordCount 220 }} min read</span>
                     </small>
                 </p>
                 {{ end }}

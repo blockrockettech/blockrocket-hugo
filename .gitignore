@@ -2,3 +2,4 @@
 blockrocket-hugo.iml
 .DS_Store
 .firebase/
+public/**
