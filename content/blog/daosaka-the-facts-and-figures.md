@@ -4,7 +4,7 @@ articletitle: "DAOSaka: The facts and figures"
 description: "From funding the DAO, to commissioning the art, selling the digital assets, and returning a shareholder profit! 😍"
 metadescription: "From funding the DAO, to commissioning the art, selling the digital assets, and returning a shareholder profit!"
 date: 2019-11-07T00:00:00
-tags: ["dao ethereum art smart contract"]
+tags: ["dao", "ethereum", "art", "smart contract"]
 image: "https://miro.medium.com/max/1350/1*4zOi71_wkGifBF05mekXFQ.png"
 author_name: "Andy Gray"
 author_thumbnail: "https://miro.medium.com/fit/c/128/128/0*S_ffs-qdOMzN8RIa."

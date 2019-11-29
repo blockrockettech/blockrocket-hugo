@@ -4,7 +4,7 @@ articletitle: "Scaling Ethereum"
 description: "Scaling Ethereum — what scaling solutions can you use today?"
 metadescription: "Scaling Ethereum — what scaling solutions can you use today?"
 date: 2019-05-07T00:00:00
-tags: ["artificial intelligence"]
+tags: ["artificial","intelligence"]
 image: "https://miro.medium.com/max/3334/0*NQhtdlGciXgQEvas.png"
 author_name: "James Morgan"
 author_thumbnail: "https://miro.medium.com/fit/c/96/96/1*pU0bCzBaLEnySQq0APCjWg.jpeg"

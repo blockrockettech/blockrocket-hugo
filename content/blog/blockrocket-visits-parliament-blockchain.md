@@ -4,7 +4,7 @@ articletitle: "BlockRocket visits Parliament"
 description: "BlockRocket visits Parliament"
 metadescription: "BlockRocket visits Parliament"
 date: 2019-05-07T00:00:00
-tags: ["artificial intelligence"]
+tags: ["artificial", "intelligence"]
 image: "https://miro.medium.com/max/4096/1*1oACMfGRX7A9zE_GyFipVw.jpeg"
 author_name: "Andy Gray"
 author_thumbnail: "https://miro.medium.com/fit/c/96/96/0*S_ffs-qdOMzN8RIa."

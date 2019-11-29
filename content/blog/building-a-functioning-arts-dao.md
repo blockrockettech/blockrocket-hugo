@@ -4,7 +4,7 @@ articletitle: "Building a functioning arts DAO"
 description: "Our take on the components required to build a profit seeking DAO that curates and sells NFTs"
 metadescription: "Our take on the components required to build a profit seeking DAO that curates and sells NFTs"
 date: 2019-11-09T00:00:00
-tags: ["dao ethereum smart contracts art"]
+tags: ["dao", "ethereum", "smart contracts", "art"]
 image: "https://miro.medium.com/max/3705/1*ixxMNvSU0111U-nH9Mxjag.png"
 author_name: "James Morgan"
 author_thumbnail: "https://miro.medium.com/fit/c/96/96/1*pU0bCzBaLEnySQq0APCjWg.jpeg"
