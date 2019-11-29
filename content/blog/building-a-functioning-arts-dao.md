@@ -92,7 +92,8 @@ We have already made some progress by building a simple dApp which provides basi
 
 Its fully open source, easy to deploy which someone has already done!
 
-<iframe src="https://medium.com/media/49b88c5decb7c8392cd924a9e33c1cbf" frameborder=0></iframe>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Alex DAO is now live at <a href="https://t.co/BeWMSc6jfF">https://t.co/BeWMSc6jfF</a> — UI by <a href="https://twitter.com/BlockRocketTech?ref_src=twsrc%5Etfw">@BlockRocketTech</a> people deployed and hosted by <a href="https://twitter.com/kernio?ref_src=twsrc%5Etfw">@kernio</a><br><br>Goal: formalize the culturally established fact that Alex’s are “perfect” people in all aspects of life, something that cannot be said for James’s... <a href="https://twitter.com/itsDAO_JamesDAO?ref_src=twsrc%5Etfw">@itsDAO_JamesDAO</a></p>&mdash; Alex Masmej ☄️ alexmasmej.eth (@AlexMasmej) <a href="https://twitter.com/AlexMasmej/status/1189713417164279809?ref_src=twsrc%5Etfw">October 31, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 We will continue to improve this with the goal to provide a simplified view of the current state of DAOs. Fork the code, add some logic, open a PR if you want to get involved [https://github.com/blockrockettech/the-dogs-molochs](https://github.com/blockrockettech/the-dogs-molochs)
 

@@ -24,7 +24,8 @@ Digital assets that are great example of creativity creating *value *through tok
 
 We forked and deployed [Moloch DAO](https://medium.com/molochdao), the standard lightweight proven DAO right now, and let the world know we were open for business:
 
-<iframe src="https://medium.com/media/796e6597aeaa2bd8f7875f7d4be21057" frameborder=0></iframe>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">If you want to be one of the first pledgers of the our DAICO, here is the link to do so: <a href="https://t.co/OvgH3FvfBH">https://t.co/OvgH3FvfBH</a></p>&mdash; 🌸 DAOSaka DAICO (@DAO_saka) <a href="https://twitter.com/DAO_saka/status/1173438593571774464?ref_src=twsrc%5Etfw">September 16, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Thankfully, via [DAOHaus](https://daohaus.club/dao/0x7d1a4fc6df3b16eb894004a4586a29f39ba6d205), we started to receive pledges. We then started to process these approvals to funds, in our case DAI (a USD stable coin), into the DAO.
 
