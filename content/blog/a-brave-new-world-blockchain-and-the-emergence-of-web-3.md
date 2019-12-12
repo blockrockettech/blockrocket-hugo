@@ -3,7 +3,7 @@ title: "A brave new world: blockchain and the emergence of Web 3.0 | Blog | Bloc
 articletitle: "A brave new world: blockchain and the emergence of Web 3.0"
 description: "A brave new world: blockchain and the emergence of Web 3.0"
 metadescription: "A brave new world: blockchain and the emergence of Web 3.0"
-date: 2019-05-07T00:00:00
+date: 2019-03-26T00:00:00
 tags: ["artificial", "intelligence"]
 image: "https://miro.medium.com/proxy/1*yH0yrqHy8vyT_Y5Jo_uhTw.jpeg"
 author_name: "James Morgan"
