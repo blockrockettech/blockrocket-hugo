@@ -1,6 +1,6 @@
 ---
 title: "Brew Dog - digital transformation, incentivisation and loyalty, sprinkles of Blockchain"
-articletitle: "BrewDog Case Study"
+articletitle: "Brew Dog"
 Description: "Digital transformation enabling new incentivisation, engagement and loyalty mechanisms"
 SubDescription: "Leveraging cloud native infrastructure to build a message driven data processing 
 pipeline, modernising monolithic legacy software, enabling experimentation with new forms of customer engagement and incentivisation"

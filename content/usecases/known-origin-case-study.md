@@ -1,6 +1,6 @@
 ---
 title: "KnownOrigin.io - A Digital Arts Marketplace"
-articletitle: "KnownOrigin Case Study"
+articletitle: "KnownOrigin.io - A Digital Arts Marketplace"
 Description: "Tokenisation of digital Artworks using Non-fungible tokens"
 SubDescription: "Facilitating new forms of value creation, opening new markets for artist and creatives as well as enabling new trustless collaboration and ownership"
 metadescription: ""
