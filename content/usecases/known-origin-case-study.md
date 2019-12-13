@@ -34,17 +34,19 @@ These technologies include amongst other things:
 #### IPFS (Interplanetary file system)
  * This allows all data associated with the digital assets including images, names, descriptions and other items metadata which are artists name and Ethereum address to be distributed in a decentralised and permissionless fashion.
 
-#### Responsive UX and enhanced blockchain specific UX patterns 
+#### Blockchain UX patterns and Mobile first design  
+ * Blockchain UX is notoriously tricky, we have applied best practice UX to smooth out this process and leverage advanced tooling such as Wallet Connect, BlockNative and The Graph. 
  * KnownOrigin works on all browsers and in all parts of the world. Artwork is easily accessible and within reach of the entire world's population.
- * Blockchain UX is notoriously tricky, we have the experience to smoothen this process and leverage advanced tooling such as Wallet Connect, BlockNative and other data caches to create a responsive and smooth web3 style user journey. 
 
 #### Data Caching and Cloud Native Infrastructure
- * Although we think blockchains are amazingly powerful beasts, the do not do all things perfectly. One thing they currently do not do so well is the ability to handle complex data queries. We leverage cloud infrastructure to cache and read the Ethereum blockchain giving an improved user experience allowing for more advanced data analysis we run cloud services which populate data stores where we cache some data. 
- * Cloud native DBs, serverless APIs and message processing allows the application to scale according to demand and with fluctuations in traffic.
+ * Blockchains are powerful beasts however they are do not do all things perfectly. 
+ One thing they currently do not do so well is the ability to handle complex data queries . 
+ We leverage cloud infrastructure ad databases to cache data from the Ethereum blockchain giving improved user experience and enabling more advanced data analysis. 
+ * Cloud native DBs, Serverless APIs and message processing allows the application to scale according to demand and with fluctuations in traffic.
 
 ### The Outcome
 
-Since lunch KnownOrigin has sold more than 5000 pieces of art from over 170 artists around the world. Taking more than 250 ETH in sales revenue of approximately $40,000.
+Since lunch KnownOrigin has sold more than 5000 pieces of art from over 170 artists around the world. Raising more than 250 ETH in sales revenue for artists, approximately $40,000.
 
 We see month of month growth and the traditional art market is taking note of the advancements in the digital art world, we see a long and prosperous future in tokenisation of artwork placed on the Ethereum Blockchain. 
 
