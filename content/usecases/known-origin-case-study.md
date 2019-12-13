@@ -4,7 +4,7 @@ articletitle: "KnownOrigin.io - A Digital Arts Marketplace"
 Description: "Tokenisation of digital Artworks using Non-fungible tokens (ERC-721)"
 SubDescription: "Facilitating new forms of value creation, opening new markets for artist and creatives as well as enabling new trustless collaboration and true ownership"
 metadescription: ""
-tags: ["ethereum", "smart contracts", "nft", "erc721", "digital art", "ipfs", "UX"]
+tags: ["ethereum", "smartcontracts", "nft", "erc721", "digital art", "ipfs", "UX"]
 layout: use_case
 ---
 
@@ -60,6 +60,5 @@ BlockRocket has now successfully built and delivered several NFT based solutions
 * [Github](https://github.com/knownorigin)
 
 <object data="/pdfs/KnownOrigin-ExecSummary.pdf" type="application/pdf" width="700px" height="500px">
-    <embed src="/pdfs/KnownOrigin-ExecSummary.pdf">
-    </embed>
+    <embed src="/pdfs/KnownOrigin-ExecSummary.pdf"></embed>
 </object>
