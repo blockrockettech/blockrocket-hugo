@@ -27,32 +27,25 @@ Several solutions have been deployed to fulfil the requirements of BrewDog, belo
 #### Cloud native architecture
 
 * At the heart of the solution is the a move to cloud native services, rethinking how data and services work together.
-
 * Tools such as AWS, Circle CI, Serverless as well as message queues and Cloud Databases have been used.
-
 * Scalable and cost effective services which are decoupled, message driven now provide a backbone to the punk ecosystem.  
 
 #### Scalable APIs
 
  * Underpinning the new service design is a set of NodeJS restful APIs which provides a layer of abstraction over several key 3rd party services, 
  providing a backbone for mobile applications, back office tooling as well as user authentication and data storage. 
-
 * APIs are built on top of a Open API schema and provide secure, stateful authentication with common data access paradigms.
 
 #### Customer loyalty and incentivisation
 
 * At the core of BrewDog are its loyal and engaged customer based, from equity for punk investors to its highly engaged BrewDog user base. 
-
 * All the changes made with an eye on how we can improve customer engagement, on how BrewDog can maintain a health ecosystem and rewarding them as they deserve. 
-
 * We have leveraged a Ethereum layer 2 scaling solution to build and integrate a loyalty points platform to drive customer engagement. 
-
 * Experimenting with crypto collectibles in the form of non-fungible tokens, NFTs, to issue badges and reward users in the form digital assets.    
 
 #### Stock management and Reporting Dashboards 
 
 * We have built a web based fullstack software solution, frontend and data driven dashboard providing insights in to operation issues.
-
 * Integrating with the several third party data feeds providing up to date and accurate information on what is stocked in all brewDog stores.
 
 ### The Outcome

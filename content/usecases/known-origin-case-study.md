@@ -1,8 +1,8 @@
 ---
 title: "KnownOrigin.io - A Digital Arts Marketplace"
 articletitle: "KnownOrigin.io - A Digital Arts Marketplace"
-Description: "Tokenisation of digital Artworks using Non-fungible tokens"
-SubDescription: "Facilitating new forms of value creation, opening new markets for artist and creatives as well as enabling new trustless collaboration and ownership"
+Description: "Tokenisation of digital Artworks using Non-fungible tokens (ERC-721)"
+SubDescription: "Facilitating new forms of value creation, opening new markets for artist and creatives as well as enabling new trustless collaboration and true ownership"
 metadescription: ""
 tags: ["ethereum", "smart contracts", "nft", "erc721", "digital art", "ipfs", "UX"]
 layout: use_case
@@ -51,3 +51,10 @@ Since lunch KnownOrigin has sold more than 5000 pieces of art from over 170 arti
 We see month of month growth and the traditional art market is taking note of the advancements in the digital art world, we see a long and prosperous future in tokenisation of artwork placed on the Ethereum Blockchain. 
 
 BlockRocket has now successfully built and delivered several NFT based solutions and has the experience, tooling and knowledge to guy others through the same leaning process we have.  
+
+#### Details 
+
+* [Visit the Gallery](https://knownorigin.io)
+* [Blog](https://medium.com/knownorigin)
+* [Graph DB](https://thegraph.com/explorer/subgraph/knownorigin/known-origin)
+* [Github](https://github.com/knownorigin)
