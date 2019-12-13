@@ -60,8 +60,3 @@ New and existing applications have been migrated and built on top of the above t
 Additional features and services can now also be plugged into existing data points, consuming data which was previous silod and difficult to access.
 
 We continue to work closely with BrewDog, providing consultancy and engineering expertise to enhance their platform. 
-
-<object data="/pdfs/KnownOrigin-ExecSummary.pdf" type="application/pdf" width="700px" height="500px">
-    <embed src="/pdfs/KnownOrigin-ExecSummary.pdf">
-    </embed>
-</object>

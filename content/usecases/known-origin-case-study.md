@@ -58,3 +58,8 @@ BlockRocket has now successfully built and delivered several NFT based solutions
 * [Blog](https://medium.com/knownorigin)
 * [Graph DB](https://thegraph.com/explorer/subgraph/knownorigin/known-origin)
 * [Github](https://github.com/knownorigin)
+
+<object data="/pdfs/KnownOrigin-ExecSummary.pdf" type="application/pdf" width="700px" height="500px">
+    <embed src="/pdfs/KnownOrigin-ExecSummary.pdf">
+    </embed>
+</object>
