@@ -5,9 +5,12 @@ Description: "Digital transformation enabling new incentivisation, engagement an
 SubDescription: "Leveraging cloud native infrastructure to build message driven data processing 
 pipelines, modernising monolithic legacy software, enabling new forms of customer engagement and incentivisation"
 metadescription: ""
+image: "/images/Brewdog-Logo-Bloack.jpg"
 tags: ["blockchain", "ost", "layer 2", "cloud", "message driven", digital transformation", "scaling", "incentivisation", "engagement"]
 layout: use_case
 ---
+
+![](/images/Brewdog-Logo-Bloack.jpg)
 
 ### About the Project
 
