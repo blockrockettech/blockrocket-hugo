@@ -1,9 +1,9 @@
 ---
-title: "Brew Dog - digital transformation, incentivisation and loyalty, sprinkles of Blockchain"
-articletitle: "Brew Dog - Craft Beer & Enterprise Infrastructure"
-Description: "Digital transformation enabling new incentivisation, engagement and loyalty mechanisms"
+title: "Brew Dog - Digital transformation, customer loyalty, incentivisation and a sprinkle of Blockchain"
+articletitle: "Brew Dog - Craft Beer, Enterprise Software and Blockchain"
+Description: "A digital transformation project enabling new incentivisation, engagement and loyalty mechanisms"
 SubDescription: "Leveraging cloud native infrastructure to build message driven data processing 
-pipelines, modernising monolithic legacy software, enabling new forms of customer engagement and incentivisation"
+pipelines, modernising monolithic legacy software, enabling new forms of customer engagement and incentivisation with the power of blockchain"
 metadescription: ""
 image: "/images/Brewdog-Logo-Bloack.jpg"
 tags: ["blockchain", "ost", "layer 2", "cloud", "message driven", digital transformation", "scaling", "incentivisation", "engagement"]
@@ -15,7 +15,7 @@ layout: use_case
 ### About the Project
 
 BrewDog is a successful, global business with hundreds of outlets and thousands of retailers world wide.
-Not only do they produce some of the finest craft beer and large on the planet, they are at eh cutting edge of customer engagement. 
+Not only do they produce some of the finest craft beer on the planet, they are at the cutting edge of customer engagement. 
 
 We have been working with BrewDog over the last year to modernism their infrastructure, move to a cloud native software stack,
  decouple existing services and to fundamentally enable more agility within the business.  
