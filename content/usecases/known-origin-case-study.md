@@ -2,63 +2,71 @@
 title: "KnownOrigin.io - A Digital Arts Marketplace"
 articletitle: "KnownOrigin.io - A Digital Arts Marketplace"
 Description: "Tokenisation of digital Artworks using Non-fungible tokens (ERC-721)"
-SubDescription: "Facilitating new forms of value creation, opening new markets for artist and creatives as well as enabling new trustless collaboration and true ownership"
-metadescription: ""
+SubDescription: "Enabling new forms of value creation, creation of new markets for artist and creatives as well as providing new trustless collaboration tools with true ownership"
+image: "/images/knownOrigin-header.jpg"
 tags: ["ethereum", "smartcontracts", "nft", "erc721", "digital art", "ipfs", "UX"]
+metadescription: ""
 layout: use_case
 ---
 
-![](/images/knownOrigin-header.jpg)
+![](/images/known-origin-front-page.jpeg)
 
 ### About the Project
 
-April 2017 we launched a small popup art gallery with the idea to showcase the application of blockchain technology in the form of tokenised digital artworks. 
+In April 2018 we launched a small popup art gallery with the goal to showcase the application of blockchain technology in the form of digital artwork tokenised on Ethereum. 
+Combining Art and Technology, an existing passion for beauty and technology.  
 
-The event was a success but more than anything it demonstrated the power of leveraging Smart Contracts, Public Blockchains such as Ethereum and using Cryptocurrency as a method of value transfer between collectors and artists.
+The event was a success and demonstrated the power of Smart Contracts, Public Blockchain technologies such as Ethereum. 
+Also demonstrating the use of Cryptocurrency as a method of value transfer between collectors and artists.
 
-KnownOrigin is a successful marketplace which issues digital artwork as non-fungible tokens, NFTs, allowing for hundreds of artists to monetize their work in a borderless, unstoppable world market with no intermediaries and free of cost. 
-
-When a purchase is made all funds are instantly reconciled, at the point of sale, between creatives and collectors as well as providing a public and transparent chain of custody with ownership and provence enforced by the use of Smart Contracts.
+KnownOrigin is now a successful marketplace selling digital artwork as non-fungible tokens, NFTs, allowing for hundreds of artists to monetize their work in a borderless, unstoppable world market with no intermediaries and free of cost. 
 
 ### The Solution
 
-KnownOrigin is built using a suite of tools which leverage the very best in decentralised and web3 technologies, harnessing the power of the most popular and advanced public Smart Contract platform, Ethereum.
+KnownOrigin is built using a suite of tools which leverage the very best in decentralised and web3 technologies, 
+harnessing the power of the most popular and advanced public Smart Contract platform, Ethereum.
 
 These technologies include amongst other things:
 
 #### Smart Contracts/Solidity
- * Enforcing ownership, providing a mechanism for value transfer, ensuring a chain of custody is maintained and provenance is public and visible to all those who look.
- * Experimentation with new form of auction models such as bonding supply to price as well as time.
- * Enabling new forms of collaboration between artists and enforcing settlement 
+ * Enforcing ownership, providing a mechanism for value transfer
+ * Ensuring a chain of custody is maintained and provenance is public and visible
+ * Enabling new forms of collaboration between artists 
 
 #### IPFS (Interplanetary file system)
- * This allows all data associated with the digital assets including images, names, descriptions and other items metadata which are artists name and Ethereum address to be distributed in a decentralised and permissionless fashion.
+ * Hosting all data associated with the digital assets including images, names, descriptions
+ * A peer-2-peer decentralised open network for sharing files
 
-#### Blockchain UX patterns and Mobile first design  
- * Blockchain UX is notoriously tricky, we have applied best practice UX to smooth out this process and leverage advanced tooling such as Wallet Connect, BlockNative and The Graph. 
- * KnownOrigin works on all browsers and in all parts of the world. Artwork is easily accessible and within reach of the entire world's population.
+#### Blockchain UX patterns  
+ * Blockchain UX is notoriously tricky, applying best practice UX and leveraging advanced tools such as Wallet Connect, BlockNative and TheGraph 
+ * Mobile first responsive design, artwork is accessible and within reach of all
 
 #### Data Caching and Cloud Native Infrastructure
- * Blockchains are powerful beasts however they are do not do all things perfectly. 
- One thing they currently do not do so well is the ability to handle complex data queries . 
- We leverage cloud infrastructure ad databases to cache data from the Ethereum blockchain giving improved user experience and enabling more advanced data analysis. 
- * Cloud native DBs, Serverless APIs and message processing allows the application to scale according to demand and with fluctuations in traffic.
-
+ * Harnessing Cloud infrastructure and data caching techniques improving user experience and facilitating advanced data analytics 
+ * Cloud native DBs, Serverless APIs and message processing allows the application to scale according to demand
+     
 ### The Outcome
 
-Since lunch KnownOrigin has sold more than 5000 pieces of art from over 170 artists around the world. Raising more than 250 ETH in sales revenue for artists, approximately $40,000.
+Since lunch, KnownOrigin has sold more than 5000 pieces of art from over 170 artists around the world. 
 
-We see month of month growth and the traditional art market is taking note of the advancements in the digital art world, we see a long and prosperous future in tokenisation of artwork placed on the Ethereum Blockchain. 
+Raising more than 280 ETH in sales revenue for artists, over $40,000.
 
-BlockRocket has now successfully built and delivered several NFT based solutions and has the experience, tooling and knowledge to guy others through the same leaning process we have.  
+With month on month growth, the traditional art world taking note in the digital arts world, 
+tokenisation of artwork placed on the Ethereum Blockchain seems to be a perfect fit. 
+
+Since KnownOrigin, BlockRocket has now successfully built and delivered several NFT based solutions. 
+Having experience, tooling and knowledge means other can also benefit from our experience.  
 
 #### Details 
 
-* [Visit the Gallery](https://knownorigin.io)
-* [Blog](https://medium.com/knownorigin)
-* [Graph DB](https://thegraph.com/explorer/subgraph/knownorigin/known-origin)
+* [KnownOrigin.io](https://knownorigin.io)
+* [Medium Blog](https://medium.com/knownorigin)
+* [SubGraph](https://thegraph.com/explorer/subgraph/knownorigin/known-origin)
 * [Github](https://github.com/knownorigin)
+
+<img src="/images/known-origin-artist-collab-banner.jpeg" style="align-content: center; width: 50%" />
 
 <object data="/pdfs/KnownOrigin-ExecSummary.pdf" type="application/pdf" width="700px" height="500px">
     <embed src="/pdfs/KnownOrigin-ExecSummary.pdf"></embed>
 </object>
+

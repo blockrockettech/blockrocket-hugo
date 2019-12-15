@@ -4,6 +4,7 @@ articletitle: "Nifty Football"
 Description: "A blockchain backed trading card platform"
 SubDescription: "Collect. Trade. Play."
 metadescription: ""
+image: "/images/pieQuality.png"
 tags: ["ethereum", "smartcontracts", "nft", "erc721", "digital art", "ipfs", "UX"]
 layout: use_case
 ---
