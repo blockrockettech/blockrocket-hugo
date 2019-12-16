@@ -16,20 +16,20 @@ layout: use_case
 In April 2018 we launched a small popup art gallery with the goal to showcase the application of blockchain technology in the form of digital artwork tokenised on <a href="https://ethereum.org" target="_blank">Ethereum</a>. 
 Combining Art and Technology, both harnessing our passion for beauty and technology.  
 
-The event was a success, demonstrating the power of Smart Contracts, tokenised artwork and public blockchains such as <a href="https://ethereum.org" target="_blank">Ethereum</a>. 
-Also it demonstrated viability in the use of Cryptocurrency as a method of value transfer between collectors and artists.
+The event was a success, demonstrating the power of smart contracts, tokenised artwork and public blockchains such as <a href="https://ethereum.org" target="_blank">Ethereum</a>. 
+It also demonstrated viability in the use of cryptocurrency as a method of value transfer between collectors and artists.
 
-<a href="https://knownorigin.io/" target="_blank">KnownOrigin</a> is now a successful marketplace selling digital artwork as non-fungible tokens, NFTs, 
+<a href="https://knownorigin.io/" target="_blank">KnownOrigin</a> is now a successful marketplace selling digital artwork as non-fungible tokens (NFTs), 
 enabling hundreds of artists to monetize their work in a borderless, unstoppable world market, without intermediaries and free of cost. 
 
-### The Solution
+### Implementation
 
 <a href="https://knownorigin.io/" target="_blank">KnownOrigin</a> is built using a suite of tools which leverage the very best in decentralised and web3 technologies, 
-harnessing the power of the most popular and advanced public Smart Contract platform, <a href="https://ethereum.org" target="_blank">Ethereum</a>.
+harnessing the power of the most popular and advanced public smart contract platform, <a href="https://ethereum.org" target="_blank">Ethereum</a>.
 
 These technologies include amongst other things:
 
-#### Smart Contracts/Solidity
+#### Smart Contracts in the Solidity language
  * Enforcing ownership, providing a mechanism for value transfer
  * Ensuring a chain of custody is maintained and provenance is public and visible
  * Enabling new forms of collaboration between artists 
@@ -43,20 +43,20 @@ These technologies include amongst other things:
  * Mobile first responsive design, artwork is accessible and within reach of all
 
 #### Data Caching and Cloud Native Infrastructure
- * Harnessing Cloud infrastructure and data caching techniques improving user experience and facilitating advanced data analytics 
+ * Harnessing cloud infrastructure and data caching techniques improving user experience and facilitating advanced data analytics 
  * Cloud native DBs, serverless APIs and message processing allows the application to scale according to demand
      
-### The Outcome
+### Outcome
 
-Since lunch, <a href="https://knownorigin.io/" target="_blank">KnownOrigin</a> has sold more than 5000 pieces of art from over 170 artists around the world. 
+Since launch, <a href="https://knownorigin.io/" target="_blank">KnownOrigin</a> has sold more than 5400+ pieces of art from over 170 digital artists around the world. 
 
-Raising more than 280 ETH in sales revenue for artists, over $40,000.
+Raising more than 280 ETH in sales revenue for artists - over $40,000.
 
-With month on month growth, the traditional art world taking note in the digital arts world, 
-tokenisation of artwork placed on the <a href="https://ethereum.org" target="_blank">Ethereum</a> Blockchain seems to be a perfect fit. 
+With month on month growth, the traditional art world is taking note of the digital arts scene. 
+Tokenisation of artwork placed on the <a href="https://ethereum.org" target="_blank">Ethereum</a> Blockchain seems to be a perfect solution to an age old problem. 
 
 Since <a href="https://knownorigin.io/" target="_blank">KnownOrigin</a>, BlockRocket has now successfully built and delivered several NFT based solutions. 
-Having experience, tooling and knowledge means other can also benefit from our experience.  
+Having this real-world experience, implementation and knowledge means others can leverage our experience and tools.  
 
 #### Details 
 
