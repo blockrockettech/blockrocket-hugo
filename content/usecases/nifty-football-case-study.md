@@ -23,7 +23,7 @@ Our agenda:
  * Ensure that collectors had reasons to collect nifty football trading cards through gameplay, upgradability, and trading 
 
 
-### The Solution
+### Implementation
 
 #### Engineering
 
@@ -43,7 +43,7 @@ Thankfully he emailed back and granted us 30 minutes to explain what we were try
 
 {{< tweet 1126201661494579200 >}}
 
-### The Outcome
+### Outcome
 
 At 9am EST on 12th May 2019 we unpaused the "blind packs" smart contracts and opened public sale of Nifty Football trading cards.
 
