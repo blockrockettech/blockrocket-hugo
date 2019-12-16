@@ -65,8 +65,6 @@ Having this real-world experience, implementation and knowledge means others can
 * [SubGraph](https://thegraph.com/explorer/subgraph/knownorigin/known-origin)
 * [Github](https://github.com/knownorigin)
 
-<img src="/images/known-origin-artist-collab-banner.jpeg" style="align-content: center; width: 50%" />
-
 <object data="/pdfs/KnownOrigin-ExecSummary.pdf" type="application/pdf" width="700px" height="500px">
     <embed src="/pdfs/KnownOrigin-ExecSummary.pdf"></embed>
 </object>
