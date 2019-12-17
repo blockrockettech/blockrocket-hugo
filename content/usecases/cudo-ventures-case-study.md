@@ -28,7 +28,7 @@ So far we have provided consultancy and delivered several decentralised applicat
 #### Token Contract (ERC-20)
 
 * We have helped Cudo understand how to apply crypto-economic and tokenomic models in the real world 
-* Building ERC-20 compliant smart contracts with full test coverage and audit friendly code base
+* Building <a href="https://eips.ethereum.org/EIPS/eip-20" target="_blank">ERC-20</a> compliant smart contracts with full test coverage and audit friendly code base
 * Embedding business and legislative rules within the token design as well as understanding
  how tokens can be used within the wider Cudo ecosystem
 
@@ -36,7 +36,7 @@ So far we have provided consultancy and delivered several decentralised applicat
 
 * Helping Cudo understand the possibilities of token staking as well building out commonly used mechanisms for
  reducing token supply, user incentivisation and reward mechanics
-* Delivering EIP-900 compliant smart contracts with full test coverage and audit friendly code base
+* Delivering <a href="https://eips.ethereum.org/EIPS/eip-900" target="_blank">EIP-900</a> compliant smart contracts with full test coverage and audit friendly code base
 * Merging additional crypto-economic models into the staking process and understand how staking works with Cudo compute
 
 #### Token Vesting Smart Contract & Portal
