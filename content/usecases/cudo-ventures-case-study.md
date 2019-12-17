@@ -13,7 +13,7 @@ layout: use_case
 
 ### About the Project
 
-Cudo Ventures are a crypto focused innovative company building software and hardware solutions which leverage unused compute
+Cudo Ventures are a innovative, crypto focused, company building software and hardware solutions which leverage unused compute
  resources, driving new monetization and value creation mechanisms. 
 
 Cudo approached BlockRocket to provide consultancy and engineering expertise for building applications on and with 
@@ -23,27 +23,28 @@ At BlockRocket we have a strong background in smart contract engineering which C
 
 ### Implementation
 
-So far we have provided consultancy and delivered several decentralised applications for Cudo, some details below.
+So far we have provided consultancy and delivered several decentralised applications for Cudo, further details below.
 
 #### Token Smart Contracts (ERC-20)
 
-* We have helped Cudo understand how to apply crypto-economic and tokenomic models in the real world 
+* Helping Cudo understand how to apply crypto-economic and tokenomic models in the real world 
 * Building <a href="https://eips.ethereum.org/EIPS/eip-20" target="_blank">ERC-20</a> compliant smart contracts with full test coverage and audit friendly code base
 * Embedding business and legislative rules within the token design as well as understanding
  how tokens can be used within the wider Cudo ecosystem
 
 #### Staking Smart Contract (EIP-900)
 
-* Helping Cudo understand the possibilities of token staking as well building out commonly used mechanisms for
+* Helping Cudo maximise the possibilities of token staking as well building out commonly used mechanisms for
  reducing token supply, user incentivisation and reward mechanics
-* Delivering <a href="https://eips.ethereum.org/EIPS/eip-900" target="_blank">EIP-900</a> compliant smart contracts with full test coverage and audit friendly code base
-* Merging additional crypto-economic models into the staking process and understand how staking works with Cudo compute
+* Delivering <a href="https://eips.ethereum.org/EIPS/eip-900" target="_blank">EIP-900</a> compliant smart contracts 
+with full test coverage and audit friendly code base
+* Applying additional crypto-economic models into the staking process and understand how staking works with Cudo compute
 
 #### Token Vesting Smart Contract & Portal
 
-* Creation of a fullstack solution including frontend and smart contracts to facilitate investor vesting schedules
+* Creation of a full stack public facing solution including a frontend portal and smart contracts to manage investor vesting schedules
 * Design and delivery of custom token vesting rules embedded within smart contracts
-* User friendly and secure user portal giving accessing to vested tokens   
+* User friendly and secure user portal giving accessing to vested tokens
 
 ### Outcome
 
