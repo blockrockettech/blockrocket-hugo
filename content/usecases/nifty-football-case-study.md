@@ -35,7 +35,7 @@ We realised that we wanted to build a smart contract architecture that would all
 
 #### Design
 
-After building KnownOrigin.io and CryptoKaiju.io we are well aware are decent enough engineers but realised we needed help with design.
+After building KnownOrigin.io and CryptoKaiju.io we are well aware that we are decent enough engineers but realised we needed help with design.
 
 We had admired the football based designs of Stanley Chow from afar so  we reached out to Stanley via instagram and waited nervously.
                                                                        
