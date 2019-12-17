@@ -3,7 +3,7 @@ title: "KnownOrigin.io - A Digital Arts Marketplace"
 articletitle: "KnownOrigin.io - A Digital Arts Marketplace"
 Description: "Tokenisation of digital Artworks using Non-fungible tokens (ERC-721)"
 SubDescription: "Enabling new forms of value creation, creation of new markets for artist and creatives as well as providing new trustless collaboration tools with true ownership"
-image: "/images/knownOrigin-header.jpg"
+image: "/images/known-origin-front-page.jpeg"
 tags: ["ethereum", "smartcontracts", "nft", "erc721", "digital art", "ipfs", "UX"]
 metadescription: ""
 layout: use_case
