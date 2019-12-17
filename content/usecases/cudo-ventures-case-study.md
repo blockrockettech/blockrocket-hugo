@@ -25,7 +25,7 @@ At BlockRocket we have a strong background in smart contract engineering which C
 
 So far we have provided consultancy and delivered several decentralised applications for Cudo, some details below.
 
-#### Token Contract (ERC-20)
+#### Token Smart Contracts (ERC-20)
 
 * We have helped Cudo understand how to apply crypto-economic and tokenomic models in the real world 
 * Building <a href="https://eips.ethereum.org/EIPS/eip-20" target="_blank">ERC-20</a> compliant smart contracts with full test coverage and audit friendly code base
