@@ -13,7 +13,7 @@ layout: use_case
 
 ### About the Project
 
-Cudo Ventures are a innovative, crypto focused, company building software and hardware solutions which leverage unused compute
+Cudo Ventures are an innovative and crypto focused company building software and hardware solutions which leverage unused compute
  resources, driving new monetization and value creation mechanisms. 
 
 Cudo approached BlockRocket to provide consultancy and engineering expertise for building applications on and with 
