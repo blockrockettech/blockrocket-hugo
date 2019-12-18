@@ -1,0 +1,61 @@
+{{ define "main" }}
+<div class="main-content" id="usecase-container">
+    <div class="container">
+        <div class="row">
+            <!-- Sharing -->
+            <div class="col-md-2 pl-0">
+                {{- partial "_share.html" . -}}
+            </div>
+
+            <!-- Post body -->
+            <div class="col-md-9 flex-first flex-md-unordered">
+                <div class="mainheading">
+                    <!-- Post Title -->
+                    <h1 class="posttitle">{{ .Params.articletitle }}</h1>
+                    <p class="lead">
+                        {{ .Description }}
+                    </p>
+                    <p class="lead text-block">
+                        {{ .Params.SubDescription }}
+                    </p>
+                </div>
+
+                <!-- Post Content -->
+                <div class="article-post">
+                    {{ .Content}}
+                </div>
+
+                <!-- Post Tags -->
+                <div class="after-post-tags">
+                    <ul class="tags">
+                        {{ range .Params.tags }}
+                        <li>
+                            <a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{.}}</a>
+                        </li>
+                        {{ end }}
+                    </ul>
+                </div>
+                <!-- End Categories -->
+
+                <!-- Next and PrevPage inside current section -->
+                <div class="row PageNavigation d-flex justify-content-between" style="padding-bottom: 30px">
+                    <div class="col col-md-6">
+                        {{with .NextInSection}}
+                        <a class="d-block" href="{{.URL}}"> &laquo; {{.Params.articletitle}}</a>
+                        {{end}}
+                    </div>
+                    <div class="col col-md-6">
+                        {{with .PrevInSection}}
+                        <a class="d-block text-lg-right" href="{{.URL}}">{{.Params.articletitle}} &raquo;</a>
+                        {{end}}
+                    </div>
+                    <div class="clearfix"></div>
+                </div>
+                <!-- End Next and PrevPage -->
+            </div>
+            <!-- End Post -->
+        </div>
+    </div>
+    <!-- End container -->
+</div>
+{{ end }}
