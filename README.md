@@ -2,6 +2,10 @@
 
 * Run locally
 ```
+./start.sh
+```
+OR
+```
 hugo -D serve
 ```
 
