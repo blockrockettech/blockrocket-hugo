@@ -19,12 +19,12 @@ Combining Art and Technology, both harnessing our passion for beauty and technol
 The event was a success, demonstrating the power of smart contracts, tokenised artwork and public blockchains such as <a href="https://ethereum.org" target="_blank">Ethereum</a>. 
 It also demonstrated viability in the use of cryptocurrency as a method of value transfer between collectors and artists.
 
-<a href="https://knownorigin.io/" target="_blank">KnownOrigin</a> is now a successful marketplace selling digital artwork as non-fungible tokens (NFTs), 
+[KnownOrigin](https://knownorigin.io) is now a successful marketplace selling digital artwork as non-fungible tokens (NFTs), 
 enabling hundreds of artists to monetize their work in a borderless, unstoppable world market, without intermediaries and free of cost. 
 
 ### Implementation
 
-<a href="https://knownorigin.io/" target="_blank">KnownOrigin</a> is built using a suite of tools which leverage the very best in decentralised and web3 technologies, 
+[KnownOrigin](https://knownorigin.io) is built using a suite of tools which leverage the very best in decentralised and web3 technologies, 
 harnessing the power of the most popular and advanced public smart contract platform, <a href="https://ethereum.org" target="_blank">Ethereum</a>.
 
 These technologies include amongst other things:
@@ -48,19 +48,19 @@ These technologies include amongst other things:
      
 ### Outcome
 
-Since launch, <a href="https://knownorigin.io/" target="_blank">KnownOrigin</a> has sold more than 5400+ pieces of art from over 170 digital artists around the world. 
+Since launch, [KnownOrigin](https://knownorigin.io) has sold more than 5400+ pieces of art from over 170 digital artists around the world. 
 
 Raising more than 280 ETH in sales revenue for artists - over $40,000.
 
 With month on month growth, the traditional art world is taking note of the digital arts scene. 
 Tokenisation of artwork placed on the <a href="https://ethereum.org" target="_blank">Ethereum</a> Blockchain seems to be a perfect solution to an age old problem. 
 
-Since <a href="https://knownorigin.io/" target="_blank">KnownOrigin</a>, BlockRocket has now successfully built and delivered several NFT based solutions. 
+Since [KnownOrigin](https://knownorigin.io), BlockRocket has now successfully built and delivered several NFT based solutions. 
 Having this real-world experience, implementation and knowledge means others can leverage our experience and tools.  
 
 #### Details 
 
-* [KnownOrigin.io](https://knownorigin.io)
+* [KnownOrigin](https://knownorigin.io)
 * [Medium Blog](https://medium.com/knownorigin)
 * [SubGraph](https://thegraph.com/explorer/subgraph/knownorigin/known-origin)
 * [Github](https://github.com/knownorigin)

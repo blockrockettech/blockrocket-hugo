@@ -28,12 +28,12 @@ We build a suite of contracts and technology to perform numerous activities incl
 
 #### IPFS (Interplanetary file system)
  * All meta-data is public
- * <a href="https://ipfs.io" target="_blank">IPFS</a> is used to host all data associated with the digital assets including images, names, descriptions
+ * IPFS is used to host all data associated with the digital assets including images, names, descriptions
  * A peer-2-peer decentralised open network for sharing files
 
 #### Private auctions delivered by Web3, PGP cryptography and stable coins
  * Off-chain cryptography to verify data exchange without onchain costs 
- * Read more about <a href="https://blockrocket.tech/blog/powering-metafactory-auctions-using-sealed-bids/" target="_blank">Powering MetaFactory 🤖 auctions using sealed bids</a>
+ * Read more about [Powering MetaFactory 🤖 auctions using sealed bids](https://blockrocket.tech/blog/powering-metafactory-auctions-using-sealed-bids)
      
 ### Outcome
 
