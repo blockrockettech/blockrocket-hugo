@@ -18,7 +18,7 @@ They wanted to use smart contracts with tokens to build a community and ownershi
 
 ### Implementation
 
-We build a suite of contracts and technology to perform tasks numerous activities including a sealed bid auction, a stepped price sale, all underpinned by non-fungible token issuance
+We build a suite of contracts and technology to perform numerous activities including a sealed bid auction, a stepped price sale, all underpinned by non-fungible token issuance
 
 #### Smart Contracts in the Solidity language
  * Enforcing ownership, providing a mechanism for token value transfer
