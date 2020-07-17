@@ -11,7 +11,7 @@ hugo -D serve
 
 * Build pages
 ```
-hudo -D
+hugo -D
 ```
 
 * Deploy changes
