@@ -1,3 +1,9 @@
 baseURL = "https://blockrocket.tech/"
 languageCode = "en-uk"
 title = "BlockRocket - Blockchain Consultancy and Engineering"
+[privacy]
+  [privacy.googleAnalytics]
+    anonymizeIP = true
+    disable = false
+    respectDoNotTrack = true
+    useSessionStorage = true
